@@ -1,5 +1,4 @@
 # Facial Recognition with JavaScript using face-api.js
-## [Youtube Video](https://youtu.be/NG5Vi8zrqMM)
 
 ### To start up the app:
 1. run npm install in the root directory
